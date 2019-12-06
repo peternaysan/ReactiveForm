@@ -1,0 +1,4 @@
+{
+    "apiBaseUrl": "http://localhost:5000/notifications",
+    "vapIdPublicKey": "BNJbRX3BqIcYveUEP5JsetVBTzRN36qeS6xaTsr2epTanPQrb7nOh7tiqA8nkvBOv3ucw-jQaVovGmrOpzYY2Ng"
+  }
